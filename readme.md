@@ -3,4 +3,3 @@
 # BikeX2G
 Ride traval from Xiamen to Guangzhou. Project &amp; Share
 =======
->>>>>>> parent of c362a25... readme
